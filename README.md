@@ -1,0 +1,1 @@
+# fastapiI-admin-panel
